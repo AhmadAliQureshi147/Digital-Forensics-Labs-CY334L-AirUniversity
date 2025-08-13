@@ -30,7 +30,7 @@ The labs cover a variety of tools, techniques, and case studies used in practica
 ---
 
 ## 🔐 Accessing the RAR Files
-The `Mids.rar` and `Finals.rar` archives are password-protected.  
+The `Mids.rar` , `Lab Quizes.rar`  and `Finals.rar` archives are password-protected.  
 📩 **Contact:** [maaq2016@gmail.com](mailto:maaq2016@gmail.com) to request the password.
 
 ---
